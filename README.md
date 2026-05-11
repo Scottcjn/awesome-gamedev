@@ -223,7 +223,7 @@ These are full-blown game engines.
 * [Ogre3D][41] - Implemented in C++. Has a [range of bindings][42]. [Expat][11].
 * [OHRRPGCE][421] - Implemented in BASIC. Designed for 8/16-bit-like games like Final Fantasy.
   Has custom plotscript language for advanced scripts. An oldschool RPG Maker alternative. [GNU GPLv2][14] or later.
-* [Orx][315] - Implented in C. [zlib][45].
+* [Orx][315] - Implemented in C. [zlib][45].
 * [Oxygine][176] - Implemented in C++. [Expat][11].
 * [Panda3D][119] - Implemented in C++. Has a Python interface. [3-clause BSD][29].
 * [PlayN][317] - Implemented in Java. [Apache2.0][20].
@@ -757,7 +757,7 @@ an engine would.
 * [HaxePunk][179] - A development framework designed to let you build games on
   any platform. [Expat][11].
 * [ImGuizmo][402] - An immediate mode 3D gizmo for scene editing and other controls based on [Dear ImGui][400]. [MIT][403].
-* [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduct network latency. [MIT][403].
+* [Kcp][414] - A fast and reliable ARQ protocol that helps fast-action games reduce network latency. [MIT][403].
 * [Kivy][80] - Rapid-development library for multi-touch and visual apps on many
   platforms. Implemented in Python. [Expat][11].
 * [Kuko][348] - A cross-platform development library, designed for mobile
@@ -805,7 +805,7 @@ an engine would.
 * [Three.js][69] - A library that makes WebGL easy to use. Implemented in
   ECMAScript. [Expat][11].
 * [Tracy][420] - C++ frame profiler. [3-clause BSD][29].
-* [voxel.js][67] - A multi-component framework for bulding voxel games for
+* [voxel.js][67] - A multi-component framework for building voxel games for
   modern browsers. Implemented in ECMAScript. [3-clause BSD][29].
 * [ZenGL][393] - A cross-platform game development library designed to provide
   necessary functionality for rendering 2D-graphics, handling input, sound output,
