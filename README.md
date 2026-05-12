@@ -377,7 +377,7 @@ may be removed upon clarification.
 
 
 ### C# ###
-* [osu!](446) - A free-to-win rhythm game. Rhythm is just a click away! [MIT][403].
+* [osu!][446] - A free-to-win rhythm game. Rhythm is just a click away! [MIT][403].
 
 ### CoffeeScript ###
 
